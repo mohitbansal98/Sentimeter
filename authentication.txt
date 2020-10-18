@@ -1,0 +1,3 @@
+set GOOGLE_APPLICATION_CREDENTIALS= "C:\Users\mywor\Desktop\Dubhacks 2020\My First Project-343b1584fac2.json"
+
+gcloud auth login
